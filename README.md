@@ -1,4 +1,4 @@
-# btc-cj
+# chia-xch
 A simple python package interacts with the chia node, python version >=3.6 is recommend
 # Install
 ```
